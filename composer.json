@@ -1,5 +1,5 @@
 {
-    "name": "limenius/liform-bundle",
+    "name": "fysfloe/liform-bundle",
     "description": "Bundle for Liform: Transform Symfony Forms into Json Schema",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
         "psr-4": { "Limenius\\LiformBundle\\": "" }
     },
     "require": {
-        "limenius/liform": "^0.9.0"
+        "fysfloe/liform": "0.13.1"
     },
     "minimum-stability": "stable"
 }
